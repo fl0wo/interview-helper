@@ -196,16 +196,62 @@ Formulating an A you should always compose it with 4 basic blocks :
   <strong>D</strong>: DETERMINE the OPTIONS available to me
   </pre>
   <pre>
-  <strong>SITUATION</strong>:  I was request to send some Splunk logs of a microservice I wasnt working on. (in order to send logs to another dev-team so they would solve a specific problem.)
+  <strong>SITUATION</strong>:  I was request to send some Splunk logs of a microservice I wasnt working on. 
+  (in order to send logs to another dev-team so they would solve a specific problem.)
   <strong>TASK</strong>:       But I had no enabled Splunk account with grants on that microservice.
   <strong>ACT</strong>:        I gathered infos about the micro service we needed the log for.
                                Instead of just giving up because I had no Splunk account enabled.
   <strong>RESULT</strong>:     I analyzed the data and found out that with K9s and a comand of 
                                kubectl I could avoid using Splunk to get the logs.
                                I found another option available to me and got the logs via ssh going 
-                               inside the docker container. Meanwhile request for a Splunk grant user for that ms.
+                               inside the docker container. Meanwhile request for a Splunk grant for my user.
+                               We avoid wasting time and the other team solved the problem quickly.
   </pre>
 </details>
+<br>
+
+<details>
+  <summary>If someone in your team was not pulling their weight, what would you do?</summary>
+  <pre>
+  <strong>ANSWER</strong>:  Try to talk to him, I'd try to understand why he's so low in productivity.
+                            I'd re-check the teams goals and see if he's struggling to align to the goals.
+                            I'd clarify theam members roles, to provide more structure to the team.
+                            I'd find new ways to motivate him. Lack of motivation = lack of contribution.
+                            
+  </pre>
+</details>
+<br>
+
+<details>
+  <summary>How do you handle pressure?</summary>
+  <pre>
+  <strong>ANSWER</strong>:  - Focusing on the task in hand
+                            - Scheduling my free time
+                            - Removing distractions
+                            - Create a priority list of task day to day
+                            I work better under pressure im more productive and more objective 
+                            oriented without distractions of any kind. 
+                            I tend to always get things done in time when under pressure.
+                            But ofcorse need to release pressure somehow (gym) avoiding to hold everything inside.
+                            
+  </pre>
+</details>
+<br>
+
+<details>
+  <summary>Tell me about a time you failed?</summary>
+  <pre>
+  Pushing with testing, new commits before push, merged and pushed anyway.
+  <strong>SITUATION</strong>:  Pushing tricky code, all unit and acceptance tests passed.
+  <strong>TASK</strong>:       But didnt tested the application entirely.
+  <strong>ACT</strong>:        What happened is that a problem incurred, for some reason
+                               some code I lately pulled gave conflicts with mine causing 
+                               problems only on runtime not compiletime so Jenkins didnt
+                               noticed (with NexusIO Junit and SonarQube)
+  <strong>RESULT</strong>:     d
+  </pre>
+</details>
+<br>
 
 <details>
   <summary>How do I dropdown?</summary>
