@@ -126,15 +126,10 @@ Formulating an A you should always compose it with 4 basic blocks :
 <details>
   <summary>Tell me about your greatest professional achievement.</summary>
   <pre>
-  <strong>SITUATION</strong>:  I was working on a business-story and a colleague of another dev-team asked me help on
-                               doing something I've already done before on another microservice. (image up/down)
-  <strong>TASK</strong>:       So I was considering how and how mutch help him with his problem, but he told be it was
-                               really urgent and the customer needed this as soon as possible.
-  <strong>ACT</strong>:        For the seek of the company, and the customer feedback I decided to ask my superior if I 
-                               could stop working on my task for few days and help my colleague.
-  <strong>RESULT</strong>:     We finished the work super fast because the customer criteria was exactly as mine when I
-                               first developed the solution for the same problem. The customer was happy, my colleague also,
-                               and I come back working on my stuff knowing that one day I could also seek for help on trouble.
+  <strong>SITUATION</strong>:  When I just started my career I had no idea of the AGILE principles
+  <strong>TASK</strong>:       
+  <strong>ACT</strong>:        
+  <strong>RESULT</strong>:     
   </pre>
 </details>
 <br>
