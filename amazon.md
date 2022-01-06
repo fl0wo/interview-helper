@@ -176,16 +176,36 @@ Formulating an A you should always compose it with 4 basic blocks :
   <summary>What are your strengths?</summary>
   <pre>
   <strong>USE 3 WORDS</strong>:  
-                                - Think Big.
-                                - Im a creative problem solver. 
-                                      (Always work hard to find the best specific solution for problem that are in the best interest of the company)
-                                - Im self motivated.
-                                      (I lern skills really quickly and I'll abs make sure to set-up everything quickly in order to help the dev-team asap with my powers)
-                                - I love collab in team. 
-                                      (I understand that in order for Amazon to succeed I need work with the team, support them, and find a way to overcome objectives together)
+    - I THINK BIG.
+    - IM A CREATIVE PROBLEM SOLVER. 
+          (Always work hard to find the best specific solution for problem that are in the best interest of the company)
+    - IM SELF MOTIVATED.
+          (I lern skills really quickly and I'll abs make sure to set-up everything quickly in order to help the dev-team asap with my powers)
+    - I LOVE TO COLLAB IN TEAMS IN ORDER TO ACHIEVE THE COMMON OBJECTIVIES. 
+          (I understand that in order for Amazon to succeed I need work with the team, support them, and find a way to overcome objectives together)
   </pre>
 </details>
 <br>
+
+<details>
+  <summary>Tell me at a time when you didn't have enough data to make a decision. What did you do to get this data?</summary>
+  <pre>
+  <strong>A</strong>: DETERMINE THE END GOAL
+  <strong>B</strong>: GATHER ALL INFORMATION available to me
+  <strong>C</strong>: ANALYZE the information available to me
+  <strong>D</strong>: DETERMINE the OPTIONS available to me
+  </pre>
+  <pre>
+  <strong>SITUATION</strong>:  I was request to send some Splunk logs of a microservice I wasnt working on. (in order to send logs to another dev-team so they would solve a specific problem.)
+  <strong>TASK</strong>:       But I had no enabled Splunk account with grants on that microservice.
+  <strong>ACT</strong>:        I gathered infos about the micro service we needed the log for.
+                               Instead of just giving up because I had no Splunk account enabled.
+  <strong>RESULT</strong>:     I analyzed the data and found out that with K9s and a comand of 
+                               kubectl I could avoid using Splunk to get the logs.
+                               I found another option available to me and got the logs via ssh going 
+                               inside the docker container. Meanwhile request for a Splunk grant user for that ms.
+  </pre>
+</details>
 
 <details>
   <summary>How do I dropdown?</summary>
