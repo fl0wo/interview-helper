@@ -89,6 +89,58 @@ Formulating an A you should always compose it with 4 basic blocks :
 <br>
 
 <details>
+  <summary>Tell me about a time when you succeeded despite being under pressure</summary>
+  <pre>
+  <strong>SITUATION</strong>:  I was studing for ASD oral exam. There were rumors about that professor
+                               being one of the most sever professors of the Uni, expecially if you did great
+                               on the first mod1 and mod2 ASD written exams.
+  <strong>TASK</strong>:       I was scared to disappoint the professor that expected a lot from me, also I really
+                               wanted to pass the exam in order to avoid giving mod1 & mod2 again in the next year.
+  <strong>ACT</strong>:        I had to work under pressure, scheduling my free-time, avoiding distractions. I was
+                               really determinated, I studied every day till late night post work, I sacrificed so many
+                               things and I avoided hanging out with friends for few months.
+                               But I also remeber I had to go to the gym often to release the pressure.
+  <strong>RESULT</strong>:     I passed the exam with no problems at all, the professor was happy and I was so proud of me.
+                               I lerned that if I want to I can work under pressure, and I also work better under pressure 
+                               cause I delete distractions in order to overcome the problem in the best productive way possible.
+  </pre>
+</details>
+<br>
+
+<details>
+  <summary>Tell us about a time when you took into consideration the needs of another person.</summary>
+  <pre>
+  <strong>SITUATION</strong>:  I was working on a business-story and a colleague of another dev-team asked me help on
+                               doing something I've already done before on another microservice. (image up/down)
+  <strong>TASK</strong>:       So I was considering how and how mutch help him with his problem, but he told be it was
+                               really urgent and the customer needed this as soon as possible.
+  <strong>ACT</strong>:        For the seek of the company, and the customer feedback I decided to ask my superior if I 
+                               could stop working on my task for few days and help my colleague.
+  <strong>RESULT</strong>:     We finished the work super fast because the customer criteria was exactly as mine when I
+                               first developed the solution for the same problem. The customer was happy, my colleague also,
+                               and I come back working on my stuff knowing that one day I could also seek for help on trouble.
+  </pre>
+</details>
+<br>
+
+<details>
+  <summary>Tell me about your greatest professional achievement.</summary>
+  <pre>
+  <strong>SITUATION</strong>:  I was working on a business-story and a colleague of another dev-team asked me help on
+                               doing something I've already done before on another microservice. (image up/down)
+  <strong>TASK</strong>:       So I was considering how and how mutch help him with his problem, but he told be it was
+                               really urgent and the customer needed this as soon as possible.
+  <strong>ACT</strong>:        For the seek of the company, and the customer feedback I decided to ask my superior if I 
+                               could stop working on my task for few days and help my colleague.
+  <strong>RESULT</strong>:     We finished the work super fast because the customer criteria was exactly as mine when I
+                               first developed the solution for the same problem. The customer was happy, my colleague also,
+                               and I come back working on my stuff knowing that one day I could also seek for help on trouble.
+  </pre>
+</details>
+<br>
+
+
+<details>
   <summary>How do I dropdown?</summary>
   <pre>
   <strong>SITUATION</strong>:  a
