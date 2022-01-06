@@ -126,14 +126,66 @@ Formulating an A you should always compose it with 4 basic blocks :
 <details>
   <summary>Tell me about your greatest professional achievement.</summary>
   <pre>
-  <strong>SITUATION</strong>:  When I just started my career I had no idea of the AGILE principles
-  <strong>TASK</strong>:       
-  <strong>ACT</strong>:        
-  <strong>RESULT</strong>:     
+  <strong>SITUATION</strong>:  Getting out from HighSchool
+  <strong>TASK</strong>:       I couldnt wait to jump into working in IT world.
+                               But I also knew that for my future I really had to invest in my self studing and
+                               taking a Bachelor in CS.
+  <strong>ACT</strong>:        I decided to do both and managed to work fulltime as a Software Engineer 
+  <strong>RESULT</strong>:     Being a Worker-Student I got more indipendent and got opportunities such as travelings and ecc that I 
+                               couldnt have without working.
   </pre>
 </details>
 <br>
 
+<details>
+  <summary>What motivates you?</summary>
+  <pre>
+  <strong>ANSWER</strong>: My passion motivates me. I get excited about solving problems.
+                           The more challenging the more excited I get. And once solved,
+                           its not over because I want to optimize it even more. I dont like
+                           being a basic guy that offers a basic solution, i want to exceed.
+                           I always think big.
+  </pre>
+</details>
+<br>
+
+<details>
+  <summary>What’s your biggest weakness?</summary>
+  <pre>
+  <strong>ANSWER</strong>: I find it difficult to ask other people for help when needed.
+                           When I find a hard problem to solve I always try to figure out 
+                           how to move with my only strenght.
+                           But I do understand it would be more beneficial to ask advice from 
+                           more experienced collegues in my team, 
+                           <strong>and im taking step to improve in this area.</strong>
+  </pre>
+  <pre>
+  <strong>ANSWER</strong>: Im a little bit sensitive and in the past I would suffer criticism.
+                           However im also taking good improving steps in this area thanks to an
+                           activity that I proposed my current dev-team to do every month.
+                           A speed-back meetings where we as developers we tell eachother in rotation
+                           all the great and bad things profesionally speaking we think about we
+                           noticed in the last month.
+                           <strong>This thing helped me getting used to receive criticism and converting them
+                           to hints of improvement.</strong>
+  </pre>
+</details>
+<br>
+
+<details>
+  <summary>What are your strengths?</summary>
+  <pre>
+  <strong>USE 3 WORDS</strong>:  
+                                - Think Big.
+                                - Im a creative problem solver. 
+                                      (Always work hard to find the best specific solution for problem that are in the best interest of the company)
+                                - Im self motivated.
+                                      (I lern skills really quickly and I'll abs make sure to set-up everything quickly in order to help the dev-team asap with my powers)
+                                - I love collab in team. 
+                                      (I understand that in order for Amazon to succeed I need work with the team, support them, and find a way to overcome objectives together)
+  </pre>
+</details>
+<br>
 
 <details>
   <summary>How do I dropdown?</summary>
