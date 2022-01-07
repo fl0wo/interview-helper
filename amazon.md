@@ -248,10 +248,47 @@ Formulating an A you should always compose it with 4 basic blocks :
                                some code I lately pulled gave conflicts with mine causing 
                                problems only on runtime not compiletime so Jenkins didnt
                                noticed (with NexusIO Junit and SonarQube)
-  <strong>RESULT</strong>:     d
+  <strong>RESULT</strong>:     I took my responsability for the mistake Ive done so I worked
+                               during week-end in order to close the fix. Since then I lernt to
+                               always doublecheck my code and never made a similar mistake again.
   </pre>
 </details>
 <br>
+
+<details>
+  <summary>Describe a time when you went above and beyond what was expected to help a customer?</summary>
+  <summary>Describe a time when you overcame a difficult challenge at work?</summary>
+  <pre>
+  <strong>SITUATION</strong>:  I receaved a bug ticket from a customer when I worked at Venis.
+  <strong>TASK</strong>:       Basically the "change password" method wasnt working as expected.
+  <strong>ACT</strong>:        What I've done was ensuring that the customer was using the correct 
+                               password first, then I asked him all the information I needed in order
+                               to start troubleshooting but I noticed that the service wasnt logging anything.
+                               So after struggling a lot tryng to find out why the customer is having 
+                               this problem, I decided to schedule a call with him. On the call we made
+                               a live test meanwhile I was tailing on the logs but unfortunately no logs were
+                               available so what happened was that I assured the client that I'd take the 
+                               responsibility to solve this problem.
+  <strong>RESULT</strong>:     On the following days I managed to struggle a lot until I found out that the
+                               process had not write access to the file where the pwd was saved.
+  </pre>
+</details>
+<br>
+
+<details>
+  <summary>Tell me about when you made a difficult decision</summary>
+  <pre>
+    Speak about when I had to discuss with my superior for the refactoring.
+    Otherwise when I decided to sacrifice everything to Work/Uni.
+  </pre>
+</details>
+<br>
+
+Q : 
+Will I work following AGILE method?
+How long will it take to me in order to stand-up and get ready to help the dev-team?
+(setup email account, go abroad etc)
+What I could do in order to succed and get an interest from amazon to continue after the intern?
 
 <details>
   <summary>How do I dropdown?</summary>
