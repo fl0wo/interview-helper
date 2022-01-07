@@ -285,10 +285,10 @@ Formulating an A you should always compose it with 4 basic blocks :
 <br>
 
 Q : 
-Will I work following AGILE method?
-How long will it take to me in order to stand-up and get ready to help the dev-team?
-(setup email account, go abroad etc)
-What I could do in order to succed and get an interest from amazon to continue after the intern?
+Will I work following AGILE method? <br>
+How long will it take to me in order to stand-up and get ready to help the dev-team? <br>
+(setup email account, go abroad etc) <br>
+What I could do in order to succed and get an interest from amazon to continue after the intern? <br>
 
 <details>
   <summary>How do I dropdown?</summary>
