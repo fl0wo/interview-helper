@@ -284,6 +284,18 @@ Formulating an A you should always compose it with 4 basic blocks :
 </details>
 <br>
 
+<details>
+  <summary>What were the challenges you encountred in a team project?</summary>
+  <pre>
+    Ivan not pulling his weight.
+    He had different goals.
+    We fixxed talking.
+    And finished the project.
+  </pre>
+</details>
+<br>
+
+
 Q : 
 Will I work following AGILE method? <br>
 How long will it take to me in order to stand-up and get ready to help the dev-team? <br>
