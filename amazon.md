@@ -10,6 +10,10 @@ Formulating an A you should always compose it with 4 basic blocks :
 - <strong>ACT</strong>
 - <strong>RESULT</strong>
 
+In order to exceed you could ad a 5th block IMPROVMENT
+where you explane If you'd find again in that situation what
+could you do better this time.
+
 <details>
   <summary>Why do you want to work for amazon?</summary>
   <pre>
