@@ -66,9 +66,7 @@ Use a **CARL** framework on every story/question:
 
 > *“If you make it through the interview rounds, we will invite you to the screening committee… one-in-two chance of being offered a spot.”* :contentReference[oaicite:1]{index=1}
 
-- **Audience:** MD & Program Manager, JETRO & Mitsui Fudosan partners, Techstars global team, EIRs, alumni, subject-matter experts  
 - **Format:** Virtual panel; 10 min pitch + 10 min Q&A  
-- **Timing:** June 5–6, 9 am–6 pm JST (book via Calendly)  
 - **Key tips:**  
   - Dress smart & treat as board-room pitch  
   - Research *Techstars Tokyo* specifically—mention how you’ll leverage their network  
